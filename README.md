@@ -1,4 +1,4 @@
-# English Premier League 2020-2021 Data Analysis
+# English Premier League Data Analysis
 A Jupyter Notebook implementation to analyze the 2020-2021 season of the EPL.
 
 In this project, I utilize the csv dataset uploaded in this repository. This dataset is a collection of basic but crucial stats of the English Premier League 2020-21 season. The dataset has all the players that played in the EPL and their standard stats such as Goals, Assists, xG (Expected Goals per match), xA (Expected Assists per match), Passes Attempted, Pass Accuracy and more.
